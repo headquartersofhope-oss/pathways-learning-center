@@ -1,0 +1,220 @@
+{
+  "schema_version": "1.0",
+  "generated": "2026-05-15",
+  "owner": "REJG Legacy Labs LLC",
+  "total_classes": 140,
+  "tracks": [
+    {
+      "track_number": 1,
+      "track_name": "Reentry Success & Life at HOH",
+      "emoji": "🏠",
+      "classes": [
+        { "class_number": "1.1", "title": "Welcome to Pathways: Your Journey Starts Here" },
+        { "class_number": "1.2", "title": "HOH Rules, Structure and Expectations" },
+        { "class_number": "1.3", "title": "Building Your Personal 90-Day Plan" },
+        { "class_number": "1.4", "title": "Time Management and Daily Routine" },
+        { "class_number": "1.5", "title": "Navigating Community Resources in Austin" },
+        { "class_number": "1.6", "title": "Communication and Professional Conduct" },
+        { "class_number": "1.7", "title": "Mental Health and Emotional Wellness" },
+        { "class_number": "1.8", "title": "Accountability and Personal Responsibility" },
+        { "class_number": "1.9", "title": "Reentry Trauma and Healing" },
+        { "class_number": "1.10", "title": "Building Community: From Isolation to Connection" },
+        { "class_number": "1.11", "title": "Supervision and Compliance: Probation and Parole" },
+        { "class_number": "1.12", "title": "Criminal Justice System Overview" },
+        { "class_number": "1.13", "title": "Advocacy: Knowing and Using Your Rights" },
+        { "class_number": "1.14", "title": "Track 1 Capstone: Reentry Readiness Assessment" }
+      ]
+    },
+    {
+      "track_number": 2,
+      "track_name": "Financial Literacy",
+      "emoji": "💰",
+      "classes": [
+        { "class_number": "2.1", "title": "Introduction to Personal Finance and Banking" },
+        { "class_number": "2.2", "title": "Opening and Managing a Bank Account" },
+        { "class_number": "2.3", "title": "Understanding and Building Your Credit Score" },
+        { "class_number": "2.4", "title": "Budgeting: Building a Monthly Budget That Works" },
+        { "class_number": "2.5", "title": "Debt Management: Understanding and Addressing What You Owe" },
+        { "class_number": "2.6", "title": "SNAP, Medicaid and Benefits: Accessing What You Are Entitled To" },
+        { "class_number": "2.7", "title": "Child Support, Restitution and Financial Obligations" },
+        { "class_number": "2.8", "title": "Filing Your Taxes: A Step-by-Step Guide" },
+        { "class_number": "2.9", "title": "Building an Emergency Fund" },
+        { "class_number": "2.10", "title": "Insurance Basics: Health, Auto and Renter's Coverage" },
+        { "class_number": "2.11", "title": "Identity Theft and Financial Fraud Protection" },
+        { "class_number": "2.12", "title": "Saving and Investing on a Limited Income" },
+        { "class_number": "2.13", "title": "Banking Without Traditional Banks: Credit Unions and Alternatives" },
+        { "class_number": "2.14", "title": "Track 2 Capstone: Financial Readiness Assessment" }
+      ]
+    },
+    {
+      "track_number": 3,
+      "track_name": "Employment & Career Development",
+      "emoji": "💼",
+      "classes": [
+        { "class_number": "3.1", "title": "Workforce Rights: What the Law Says" },
+        { "class_number": "3.2", "title": "Building Your Resume: A Step-by-Step Guide" },
+        { "class_number": "3.3", "title": "The Austin Job Market: Industries and Opportunities" },
+        { "class_number": "3.4", "title": "Job Applications and the Fair Chance Hiring Ordinance" },
+        { "class_number": "3.5", "title": "Interview Skills: Preparation and Practice" },
+        { "class_number": "3.6", "title": "Criminal Background Checks: What Employers See" },
+        { "class_number": "3.7", "title": "Professional Communication in the Workplace" },
+        { "class_number": "3.8", "title": "Understanding Your Paycheck, Benefits and Taxes" },
+        { "class_number": "3.9", "title": "Career Pathways: Planning Your Long-Term Future" },
+        { "class_number": "3.10", "title": "On-the-Job Success: Professionalism and Performance" },
+        { "class_number": "3.11", "title": "Gig Work, Side Income and Self-Employment" },
+        { "class_number": "3.12", "title": "Workplace Conflict and How to Navigate HR" },
+        { "class_number": "3.13", "title": "Building Your Professional Network" },
+        { "class_number": "3.14", "title": "Track 3 Capstone: Career Readiness Assessment" }
+      ]
+    },
+    {
+      "track_number": 4,
+      "track_name": "Housing & Tenant Rights",
+      "emoji": "🏡",
+      "classes": [
+        { "class_number": "4.1", "title": "Your Rights as a Tenant in Texas" },
+        { "class_number": "4.2", "title": "The Lease Agreement: What You Are Actually Signing" },
+        { "class_number": "4.3", "title": "Maintaining Your Tenancy: Rent, Repairs and Relationships" },
+        { "class_number": "4.4", "title": "The Eviction Process: Your Rights and Your Options" },
+        { "class_number": "4.5", "title": "Finding Housing in Austin: Second-Chance Resources and Strategies" },
+        { "class_number": "4.6", "title": "Budgeting for Housing: True Costs and Financial Planning" },
+        { "class_number": "4.7", "title": "Utilities: Setup, Deposits and Crisis Resources" },
+        { "class_number": "4.8", "title": "Roommates, Shared Housing and HOH House Rules" },
+        { "class_number": "4.9", "title": "When Your Landlord Violates Your Rights: Documentation and Response" },
+        { "class_number": "4.10", "title": "Housing Crisis Response: What to Do When You Lose Housing" },
+        { "class_number": "4.11", "title": "Housing and Supervision: Compliance Requirements" },
+        { "class_number": "4.12", "title": "The Path to Home Ownership: Planning From Reentry" },
+        { "class_number": "4.13", "title": "Criminal Record and Housing: Strategies That Work" },
+        { "class_number": "4.14", "title": "Track 4 Capstone: Housing Readiness Assessment" }
+      ]
+    },
+    {
+      "track_number": 5,
+      "track_name": "Legal & Civic Literacy",
+      "emoji": "⚖️",
+      "classes": [
+        { "class_number": "5.1", "title": "Parole and Probation: Knowing Your Conditions" },
+        { "class_number": "5.2", "title": "Expungement and Nondisclosure in Texas" },
+        { "class_number": "5.3", "title": "Voting Rights: When They Are Restored and How to Register" },
+        { "class_number": "5.4", "title": "Understanding Court Documents and Legal Proceedings" },
+        { "class_number": "5.5", "title": "Legal Aid Resources in Austin: Free Help for Real Problems" },
+        { "class_number": "5.6", "title": "Child Support: Legal Obligations, Consequences and Modifications" },
+        { "class_number": "5.7", "title": "Small Claims Court: Recovering What You Are Owed" },
+        { "class_number": "5.8", "title": "Consumer Rights: Debt Collection, Credit Reports and Legal Protections" },
+        { "class_number": "5.9", "title": "Know Your Rights if Arrested: Criminal Procedure Basics" },
+        { "class_number": "5.10", "title": "Civil Rights After a Felony: What You Keep, What Is Restored" },
+        { "class_number": "5.11", "title": "Federal Benefits and Criminal Records: What You Can Access" },
+        { "class_number": "5.12", "title": "Identity Documents: Getting What You Need to Function" },
+        { "class_number": "5.13", "title": "Legal Protections for People Experiencing Homelessness" },
+        { "class_number": "5.14", "title": "Track 5 Capstone: Legal and Civic Literacy Assessment" }
+      ]
+    },
+    {
+      "track_number": 6,
+      "track_name": "Health & Wellness",
+      "emoji": "❤️",
+      "total_classes": 16,
+      "classes": [
+        { "class_number": "6.1", "title": "Healthcare Access in Austin: Insurance, Clinics and Free Resources" },
+        { "class_number": "6.2", "title": "Mental Health in Reentry: Recognizing and Addressing Trauma" },
+        { "class_number": "6.3", "title": "Medication Management and Prescription Access" },
+        { "class_number": "6.4", "title": "Dental and Vision Care on a Limited Budget" },
+        { "class_number": "6.5", "title": "Nutrition and Food Security" },
+        { "class_number": "6.6", "title": "Physical Fitness Without a Gym" },
+        { "class_number": "6.7", "title": "Sleep, Stress and Recovery" },
+        { "class_number": "6.8", "title": "Sexual Health and STI Prevention" },
+        { "class_number": "6.9", "title": "Chronic Disease Management: Diabetes, Hypertension, Heart Disease" },
+        { "class_number": "6.10", "title": "Substance Use and the Brain: Understanding Addiction Scientifically" },
+        { "class_number": "6.11", "title": "HIV/AIDS: Testing, Treatment and Prevention in Austin" },
+        { "class_number": "6.12", "title": "Women's Health in Reentry" },
+        { "class_number": "6.13", "title": "Men's Health in Reentry" },
+        { "class_number": "6.14", "title": "Disability Rights and Accommodations" },
+        { "class_number": "6.15", "title": "Navigating Emergency Room vs Urgent Care vs Primary Care" },
+        { "class_number": "6.16", "title": "Track 6 Capstone: Health Literacy Assessment" }
+      ]
+    },
+    {
+      "track_number": 7,
+      "track_name": "Sobriety & Recovery",
+      "emoji": "🌱",
+      "classes": [
+        { "class_number": "7.1", "title": "Understanding Addiction: The Disease Model and Your Brain" },
+        { "class_number": "7.2", "title": "Triggers, Cravings and the Relapse Cycle" },
+        { "class_number": "7.3", "title": "Building a Personal Recovery Plan" },
+        { "class_number": "7.4", "title": "12-Step Programs: What They Are and How They Work" },
+        { "class_number": "7.5", "title": "SMART Recovery and Non-12-Step Options" },
+        { "class_number": "7.6", "title": "Medication-Assisted Treatment: Suboxone, Vivitrol, Methadone" },
+        { "class_number": "7.7", "title": "Supporting Family Members in Your Recovery" },
+        { "class_number": "7.8", "title": "Rebuilding Trust After Addiction" },
+        { "class_number": "7.9", "title": "Recovery and Employment: Navigating Disclosure" },
+        { "class_number": "7.10", "title": "Sober Living: Rules, Benefits and Finding the Right House" },
+        { "class_number": "7.11", "title": "Austin Recovery Resources: Complete Guide" },
+        { "class_number": "7.12", "title": "Peer Support Specialists: Training and Career Path" },
+        { "class_number": "7.13", "title": "Long-Term Recovery: What Research Shows" },
+        { "class_number": "7.14", "title": "Track 7 Capstone: Recovery Readiness Assessment" }
+      ]
+    },
+    {
+      "track_number": 8,
+      "track_name": "Family & Relationships",
+      "emoji": "👨‍👩‍👧",
+      "classes": [
+        { "class_number": "8.1", "title": "Reunifying with Your Children After Incarceration" },
+        { "class_number": "8.2", "title": "Co-Parenting After Incarceration: Legal and Practical Guidance" },
+        { "class_number": "8.3", "title": "Rebuilding Trust with Family Members" },
+        { "class_number": "8.4", "title": "Healthy Relationship Skills: Communication and Conflict" },
+        { "class_number": "8.5", "title": "Domestic Violence: Recognition, Safety Planning and Resources" },
+        { "class_number": "8.6", "title": "Parenting Skills: Attachment, Discipline and Development" },
+        { "class_number": "8.7", "title": "Supporting Your Children's Mental Health" },
+        { "class_number": "8.8", "title": "The Foster Care System: Understanding and Navigating It" },
+        { "class_number": "8.9", "title": "Marriage and Partnership After Incarceration" },
+        { "class_number": "8.10", "title": "Boundaries: Setting Them and Respecting Others" },
+        { "class_number": "8.11", "title": "Social Media, Dating Apps and Healthy Digital Relationships" },
+        { "class_number": "8.12", "title": "Community as Family: Building Support Systems" },
+        { "class_number": "8.13", "title": "Grief and Loss in Reentry" },
+        { "class_number": "8.14", "title": "Track 8 Capstone: Relationship Readiness Assessment" }
+      ]
+    },
+    {
+      "track_number": 9,
+      "track_name": "Digital Literacy & Tech",
+      "emoji": "💻",
+      "classes": [
+        { "class_number": "9.1", "title": "Smartphones: Everything You Need to Know" },
+        { "class_number": "9.2", "title": "Email: Creating, Managing and Using Professionally" },
+        { "class_number": "9.3", "title": "Internet Safety and Privacy" },
+        { "class_number": "9.4", "title": "Social Media: Professional Use and Risk Management" },
+        { "class_number": "9.5", "title": "Google Workspace: Docs, Sheets and Drive for Work" },
+        { "class_number": "9.6", "title": "Online Job Applications and Professional Profiles" },
+        { "class_number": "9.7", "title": "Banking Apps and Digital Financial Management" },
+        { "class_number": "9.8", "title": "Telehealth: Accessing Healthcare Remotely" },
+        { "class_number": "9.9", "title": "Government Services Online: Benefits, Records, Applications" },
+        { "class_number": "9.10", "title": "Online Learning: Google Certificates, Coursera and Free Education" },
+        { "class_number": "9.11", "title": "Cybersecurity: Protecting Yourself from Scams and Fraud" },
+        { "class_number": "9.12", "title": "Basic Computer Skills for the Workplace" },
+        { "class_number": "9.13", "title": "The Gig Economy App Ecosystem" },
+        { "class_number": "9.14", "title": "Track 9 Capstone: Digital Literacy Assessment" }
+      ]
+    },
+    {
+      "track_number": 10,
+      "track_name": "Leadership & Entrepreneurship",
+      "emoji": "🚀",
+      "total_classes": 12,
+      "classes": [
+        { "class_number": "10.1", "title": "What Leadership Actually Is" },
+        { "class_number": "10.2", "title": "Starting a Business in Texas: From Idea to LLC" },
+        { "class_number": "10.3", "title": "Business Planning: The One-Page Business Plan" },
+        { "class_number": "10.4", "title": "Funding a Small Business: Grants, Microloans and CDFIs" },
+        { "class_number": "10.5", "title": "Marketing and Sales Basics" },
+        { "class_number": "10.6", "title": "Hiring Your First Employee" },
+        { "class_number": "10.7", "title": "Nonprofit vs For-Profit: Understanding the Difference" },
+        { "class_number": "10.8", "title": "Giving Back: Mentorship and Peer Support" },
+        { "class_number": "10.9", "title": "Advocacy: Changing the System from the Inside" },
+        { "class_number": "10.10", "title": "Public Speaking and Storytelling" },
+        { "class_number": "10.11", "title": "Building a Legacy: Beyond the Individual" },
+        { "class_number": "10.12", "title": "Pathways Graduation: Your Certificate and Next Steps" }
+      ]
+    }
+  ]
+}
